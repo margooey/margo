@@ -3,7 +3,7 @@
 
     50% vibe-coded because I am NOT spending real hours on this
     I have to learn Java for university and I genuinely believe manually
-    editing pomfiles is archaic and stupid
+    editing pomfiles to add dependencies is archaic and stupid
 
     You get two commands
 
