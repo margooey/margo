@@ -1,0 +1,11 @@
+[package]
+name = "margo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.6.0", features = ["derive"] }
+minidom = "0.18.0"
+serde_json = "1"
+ureq = "3.3.0"
+xmlformat = "1.2.1"
